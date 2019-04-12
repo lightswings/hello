@@ -1,2 +1,2 @@
-# hello
+# start a project
 nothing
